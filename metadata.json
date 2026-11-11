@@ -1,0 +1,6 @@
+{
+  "name": "Speed Battle Komponen Mesin TKRO",
+  "description": "Game edukasi interaktif pengenalan komponen mesin mobil untuk SMK Teknik Kendaraan Ringan Otomotif (TKRO) dengan Smart Board support, realtime buzzer, mode battle, dan analitik nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
